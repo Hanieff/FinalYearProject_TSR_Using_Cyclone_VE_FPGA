@@ -1,4 +1,4 @@
 # Traffic sign Recognition_UsingFPGA
-Implement Malaysian Traffic sign Recognition on Intel FPGA Cyclone 5e SoC for Embedded System Application
+Implement Malaysian Traffic sign Recognition on Intel FPGA Cyclone ve SoC for Embedded System Application
 
-Currently, I'm still working on developing the project. I will be updated soon after i complete the project
+[![image]https://github.com/Hanieff/FinalYearProject_TSR_Using_Cyclone_VE_FPGA/blob/main/Slide1.PNG]
